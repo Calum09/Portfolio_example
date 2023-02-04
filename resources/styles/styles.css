@@ -6,6 +6,7 @@ body {
 
 section {
   background-color: #1c1d25;
+
   
 }
 
@@ -127,10 +128,10 @@ span {
 }
 
 .about-me {
-  display: flex;
-  justify-content: space-around;
   padding: 80px;
+ 
 }
+
 
 .projects {
   display: flex;
