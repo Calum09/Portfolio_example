@@ -222,7 +222,7 @@ a:hover {
   outline: 0;
 }
 
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 1250px) and (min-width: 500px) {
   .hamburger {
     display:block;
     border: 0;
