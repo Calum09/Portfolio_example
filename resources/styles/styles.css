@@ -126,10 +126,6 @@ span {
   color: #64ffda;
 }
 
-.about-me {
-  padding: 80px;
- 
-}
 
 
 .projects {
@@ -222,7 +218,12 @@ a:hover {
   outline: 0;
 }
 
-@media only screen and (max-width: 1500px) and (min-width: 500px) {
+#email {
+ 
+
+}
+
+@media only screen and (max-width: 1000) {
   .hamburger {
     display:block;
     border: 0;
