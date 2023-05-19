@@ -1,7 +1,8 @@
 # Website Portfolio
-Available through GitHub Pages: https://calum09.github.io/
 
-My personal website portfolio containing my experience, work and personal projects. 
+The first iteration of my personal website portfolio containing my experience, work and personal projects. 
+
+This is now depreciated and is an example project
 
 ---
 
